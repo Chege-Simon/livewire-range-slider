@@ -11,7 +11,12 @@ A simple [noUiSlider](https://github.com/leongersen/noUiSlider) blade component 
 ### Installation
 
 To get started, require the package to your project's composer.json
+My Version
+```bash
+composer require simon-chege/livewire-range-slider
+```
 
+Original
 ```bash
 composer require jantinnerezo/livewire-range-slider
 ```
